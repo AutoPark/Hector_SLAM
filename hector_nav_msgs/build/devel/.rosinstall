@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/naman/catkin_ws/src/hector_slam-groovy/hector_nav_msgs/build/devel/setup.sh
